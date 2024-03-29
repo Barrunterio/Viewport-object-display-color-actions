@@ -1,13 +1,13 @@
 bl_info = {
-    "name": "TB_Display_Color",
-    "author": "Taiseibutsu",
+    "name": "Viewport_Object_Display_Color_Actions",
+    "author": "Barrunterio",
     "version": (0, 1),
     "blender": (2, 80, 0),
     "location": "View3D > UI",
     "description": "Quickly Set Display Colors",
     "warning": "",
     "doc_url": "",
-    "category": "Display",
+    "category": "",
 }
 
 
